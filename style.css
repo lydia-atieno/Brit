@@ -178,7 +178,7 @@ html{
     /*font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;*/
 }
 #title h1{
-    font-size: 2.3rem;
+    font-size: 2.5rem;
     font-weight: 600;
     letter-spacing: .1rem;
 }
@@ -187,7 +187,7 @@ html{
 }
 #title h2{
     color: mediumorchid;
-    font-size: 1.9rem;
+    font-size: 2rem;
     padding-left: 13px;
     font-weight: 600;
     letter-spacing: .1rem;
@@ -221,13 +221,14 @@ html{
 #services ul li {
     align-items: center;
     padding-top: 8px;
+    font-size: 1rem;
     
 }
 #services .section-title span{
     color: rgb(100, 5, 100);
 }
 #services .section-title{
-    font-size: 2.3rem;
+    font-size: 2.5rem;
     letter-spacing: .2rem;
     margin-bottom: 20px;
     margin-top: 30px;
@@ -255,7 +256,7 @@ html{
     max-width: 1200px;
 }
 #contacts .section-title{
-    font-size: 2.3rem;
+    font-size: 2.5rem;
     letter-spacing: .2rem;
     font-weight: ;
 }
