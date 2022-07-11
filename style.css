@@ -188,12 +188,12 @@ html{
 #title h2{
     color: mediumorchid;
     font-size: 2rem;
-    padding-left: 13px;
+    padding-left: 20px;
     font-weight: 600;
     letter-spacing: .1rem;
 }
 #title img{
-    padding-left: 18px;
+    padding-left: 36px;
 }
 /* End Title Section */
 
